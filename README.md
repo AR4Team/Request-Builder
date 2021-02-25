@@ -16,7 +16,7 @@ Programing Languages Supported
 ```
 1. Vb.net
 2. C#
-3. Python (soon)
+3. Python
 4. Php (soon)
 5. Curl (soon)
 ```
@@ -25,7 +25,7 @@ Libraries Supported
 ```
 1. HttpWebClient
 2. RestSharp
-3. Webclient (soon)
+3. Webclient
 4. XNet
 ```
 
